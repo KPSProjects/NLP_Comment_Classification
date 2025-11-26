@@ -56,7 +56,7 @@ I compare two different pipelines:
    - Text is tokenised into subword tokens  
    - DistilBERT is fine-tuned on the same toxic vs non-toxic labels using the Trainer API  
 
-Both models are trained and evaluated on the **same train/test split**, and then I compare their performance, especially on **toxic recall**.
+Both models are trained and evaluated on the **same train/test split**, and then I compare their performance especially on **toxic recall**.
 
 ---
 
